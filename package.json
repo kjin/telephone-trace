@@ -1,0 +1,19 @@
+{
+  "name": "telephone-trace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/cloud-trace": "git+https://github.com/GoogleCloudPlatform/cloud-trace-nodejs.git",
+    "hapi": "^16.1.0",
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
+    "mongoose": "^4.8.5",
+    "qs": "^6.3.1"
+  }
+}
